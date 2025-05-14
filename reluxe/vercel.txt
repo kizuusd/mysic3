@@ -1,0 +1,1 @@
+This file exists to verify that static assets are being properly deployed to Vercel. 

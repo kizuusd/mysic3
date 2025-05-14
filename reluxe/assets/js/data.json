@@ -1,0 +1,44 @@
+{
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Sunset Melody",
+      "artist": "Dream Waves",
+      "duration": "3:45",
+      "cover": "./assets/images/cover1.jpg",
+      "audioSrc": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+    },
+    {
+      "id": 2,
+      "title": "Urban Beats",
+      "artist": "City Groove",
+      "duration": "4:20",
+      "cover": "./assets/images/cover2.jpg",
+      "audioSrc": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3"
+    },
+    {
+      "id": 3,
+      "title": "Mountain Echo",
+      "artist": "Nature Sounds",
+      "duration": "5:12",
+      "cover": "./assets/images/cover3.jpg",
+      "audioSrc": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
+    },
+    {
+      "id": 4,
+      "title": "Midnight Drive",
+      "artist": "Night Rider",
+      "duration": "3:58",
+      "cover": "./assets/images/cover4.jpg",
+      "audioSrc": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3"
+    },
+    {
+      "id": 5,
+      "title": "Ocean Waves",
+      "artist": "Sea Breeze",
+      "duration": "4:05",
+      "cover": "./assets/images/cover5.jpg",
+      "audioSrc": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3"
+    }
+  ]
+} 

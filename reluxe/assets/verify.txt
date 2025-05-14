@@ -1,0 +1,1 @@
+Verifikasi assets folder: File ini berhasil diakses, yang berarti folder assets sudah benar dikonfigurasi di Vercel. 

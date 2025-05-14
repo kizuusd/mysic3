@@ -1,0 +1,7 @@
+Placeholder file to ensure the images directory is included in the deployment.
+Please make sure the following files exist in this directory:
+- cover1.jpg
+- cover2.jpg
+- cover3.jpg
+- cover4.jpg
+- cover5.jpg 
